@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[octoinfive]]></title>
+  <link href="http://iamdacu.github.com/octoinfive/atom.xml" rel="self"/>
+  <link href="http://iamdacu.github.com/octoinfive/"/>
+  <updated>2012-06-10T14:51:04+01:00</updated>
+  <id>http://iamdacu.github.com/octoinfive/</id>
+  <author>
+    <name><![CDATA[Daniel Cuttridge]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
